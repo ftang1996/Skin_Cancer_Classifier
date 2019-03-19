@@ -1,0 +1,6 @@
+# Don't track content of these folders
+skin-cancer-mnist-ham10000/
+.ssh/
+.profile
+.bash_logout
+.bashrc
